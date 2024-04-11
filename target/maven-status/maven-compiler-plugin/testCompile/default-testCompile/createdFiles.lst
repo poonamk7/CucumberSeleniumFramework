@@ -1,0 +1,17 @@
+enums\WaitType.class
+pageObjects\YourCartPage.class
+stepdefinitions\LoginSteps.class
+stepdefinitions\AddToCartSteps.class
+pageObjects\pageComponents\HamburgerMenuComponent.class
+stepdefinitions\BaseClass.class
+pageObjects\CheckoutYourInformationPage.class
+stepdefinitions\LogoutSteps.class
+pageObjects\LoginPage.class
+pageObjects\CheckoutOverviewPage.class
+runner\JunitRunnerTest.class
+utilities\WaitHelper.class
+stepdefinitions\RemoveProductsfromCartSteps.class
+pageObjects\CheckoutCompletePage.class
+pageObjects\ProductsPage.class
+hooks\Hooks.class
+stepdefinitions\CheckoutSteps.class

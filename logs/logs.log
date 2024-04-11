@@ -1,0 +1,384 @@
+[INFO ] 2024-04-11 20:58:12.687 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 20:58:12.845 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 20:58:13.086 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 20:58:13.249 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 20:58:13.314 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 20:58:13.379 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 20:58:13.444 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 20:58:13.488 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 20:58:21.504 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 20:58:21.630 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 20:58:21.796 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 20:58:21.901 [main] ProductsPage - Added Sauce Labs Bike Light to cart
+[INFO ] 2024-04-11 20:58:21.960 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 20:58:22.029 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 20:58:22.107 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 20:58:22.180 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 20:58:22.181 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 20:58:22.539 [main] CheckoutYourInformationPage - Entered firstname Carissa
+[INFO ] 2024-04-11 20:58:22.602 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 20:58:22.605 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 20:58:22.857 [main] CheckoutYourInformationPage - Entered lastname Bahringer
+[INFO ] 2024-04-11 20:58:22.922 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 20:58:22.923 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 20:58:23.173 [main] CheckoutYourInformationPage - Entered postal code 04019-9813
+[INFO ] 2024-04-11 20:58:23.418 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 20:58:23.422 [main] CheckoutOverviewPage - Title header is fetched
+[INFO ] 2024-04-11 20:58:34.668 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 20:58:34.809 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 20:58:34.946 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 20:58:41.053 [main] LoginPage - Username problem_user is entered
+[INFO ] 2024-04-11 20:58:41.175 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 20:58:41.318 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 20:58:48.311 [main] LoginPage - Username performance_glitch_user is entered
+[INFO ] 2024-04-11 20:58:48.427 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 20:58:53.564 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 20:59:03.042 [main] LoginPage - Username error_user is entered
+[INFO ] 2024-04-11 20:59:03.162 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 20:59:03.291 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 20:59:09.747 [main] LoginPage - Username visual_user is entered
+[INFO ] 2024-04-11 20:59:09.866 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 20:59:10.000 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 20:59:20.365 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 20:59:20.486 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 20:59:20.620 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 20:59:20.692 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 20:59:20.761 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 20:59:20.837 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 20:59:21.105 [main] CheckoutYourInformationPage - Entered firstname Forest
+[INFO ] 2024-04-11 20:59:21.316 [main] CheckoutYourInformationPage - Entered lastname Kessler
+[INFO ] 2024-04-11 20:59:21.486 [main] CheckoutYourInformationPage - Entered postal code 56370
+[INFO ] 2024-04-11 20:59:21.837 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 20:59:21.898 [main] CheckoutOverviewPage - Clicked on Finish button
+[INFO ] 2024-04-11 20:59:21.971 [main] CheckoutCompletePage - Clicked on Hamburger menu
+[INFO ] 2024-04-11 20:59:22.107 [main] HamburgerMenuComponent - Clicked on Logout link
+[INFO ] 2024-04-11 20:59:22.108 [main] LoginPage - Page header is captured
+[INFO ] 2024-04-11 20:59:35.780 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 20:59:35.899 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 20:59:36.029 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 20:59:36.105 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 20:59:36.159 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 20:59:36.215 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 20:59:36.280 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 20:59:36.337 [main] YourCartPage - Removed Sauce Labs Onesie from cart
+[INFO ] 2024-04-11 20:59:36.368 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 21:19:03.116 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:19:03.260 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:19:03.884 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:19:03.976 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 21:19:04.060 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:19:04.137 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 21:19:04.198 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 21:19:04.311 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 21:19:16.607 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:19:16.721 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:19:16.872 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:19:16.947 [main] ProductsPage - Added Sauce Labs Bike Light to cart
+[INFO ] 2024-04-11 21:19:17.025 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:19:17.110 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:19:17.184 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 21:19:17.462 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:19:17.463 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:19:19.263 [main] CheckoutYourInformationPage - Entered firstname Freeda
+[INFO ] 2024-04-11 21:19:19.328 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:19:19.332 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:19:19.581 [main] CheckoutYourInformationPage - Entered lastname Zulauf
+[INFO ] 2024-04-11 21:19:19.660 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:19:19.661 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:19:19.996 [main] CheckoutYourInformationPage - Entered postal code 13181
+[INFO ] 2024-04-11 21:19:20.314 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:19:20.318 [main] CheckoutOverviewPage - Title header is fetched
+[INFO ] 2024-04-11 21:19:35.229 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:19:35.347 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:19:35.487 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:19:48.347 [main] LoginPage - Username problem_user is entered
+[INFO ] 2024-04-11 21:19:48.456 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:19:48.601 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:20:05.005 [main] LoginPage - Username performance_glitch_user is entered
+[INFO ] 2024-04-11 21:20:05.123 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:20:10.273 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:20:25.325 [main] LoginPage - Username error_user is entered
+[INFO ] 2024-04-11 21:20:25.448 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:20:25.584 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:20:42.939 [main] LoginPage - Username visual_user is entered
+[INFO ] 2024-04-11 21:20:43.054 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:20:43.192 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:20:58.658 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:20:58.776 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:20:58.921 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:20:58.995 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 21:20:59.094 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:20:59.183 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 21:20:59.403 [main] CheckoutYourInformationPage - Entered firstname Xiao
+[INFO ] 2024-04-11 21:20:59.624 [main] CheckoutYourInformationPage - Entered lastname Miller
+[INFO ] 2024-04-11 21:20:59.770 [main] CheckoutYourInformationPage - Entered postal code 55029-4484
+[INFO ] 2024-04-11 21:21:00.180 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:21:00.252 [main] CheckoutOverviewPage - Clicked on Finish button
+[INFO ] 2024-04-11 21:21:00.331 [main] CheckoutCompletePage - Clicked on Hamburger menu
+[INFO ] 2024-04-11 21:21:00.482 [main] HamburgerMenuComponent - Clicked on Logout link
+[INFO ] 2024-04-11 21:21:00.483 [main] LoginPage - Page header is captured
+[INFO ] 2024-04-11 21:21:14.540 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:21:14.654 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:21:14.800 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:21:14.878 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:21:14.961 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 21:21:15.022 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 21:21:15.095 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:21:15.160 [main] YourCartPage - Removed Sauce Labs Onesie from cart
+[INFO ] 2024-04-11 21:21:15.192 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 21:23:19.798 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:23:20.037 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:23:20.225 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:23:20.384 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 21:23:20.465 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:23:20.535 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 21:23:20.599 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 21:23:20.653 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 21:23:33.678 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:23:33.819 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:23:33.963 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:23:34.052 [main] ProductsPage - Added Sauce Labs Bike Light to cart
+[INFO ] 2024-04-11 21:23:34.127 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:23:34.203 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:23:34.280 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 21:23:34.373 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:23:34.374 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:23:34.836 [main] CheckoutYourInformationPage - Entered firstname Leroy
+[INFO ] 2024-04-11 21:23:34.912 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:23:34.916 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:23:35.181 [main] CheckoutYourInformationPage - Entered lastname Treutel
+[INFO ] 2024-04-11 21:23:35.251 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:23:35.252 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:23:35.517 [main] CheckoutYourInformationPage - Entered postal code 49104
+[INFO ] 2024-04-11 21:23:35.929 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:23:35.933 [main] CheckoutOverviewPage - Title header is fetched
+[INFO ] 2024-04-11 21:23:53.550 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:23:53.666 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:23:53.811 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:24:05.150 [main] LoginPage - Username problem_user is entered
+[INFO ] 2024-04-11 21:24:05.288 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:24:05.436 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:24:13.170 [main] LoginPage - Username performance_glitch_user is entered
+[INFO ] 2024-04-11 21:24:13.288 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:24:18.435 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:24:30.888 [main] LoginPage - Username error_user is entered
+[INFO ] 2024-04-11 21:24:31.017 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:24:31.166 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:24:44.640 [main] LoginPage - Username visual_user is entered
+[INFO ] 2024-04-11 21:24:44.764 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:24:44.972 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:24:57.109 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:24:57.515 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:24:57.668 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:24:57.762 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 21:24:57.841 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:24:57.932 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 21:24:58.185 [main] CheckoutYourInformationPage - Entered firstname Damon
+[INFO ] 2024-04-11 21:24:58.417 [main] CheckoutYourInformationPage - Entered lastname Bogisich
+[INFO ] 2024-04-11 21:24:58.584 [main] CheckoutYourInformationPage - Entered postal code 69389-3662
+[INFO ] 2024-04-11 21:24:58.982 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:24:59.260 [main] CheckoutOverviewPage - Clicked on Finish button
+[INFO ] 2024-04-11 21:24:59.464 [main] CheckoutCompletePage - Clicked on Hamburger menu
+[INFO ] 2024-04-11 21:24:59.606 [main] HamburgerMenuComponent - Clicked on Logout link
+[INFO ] 2024-04-11 21:24:59.609 [main] LoginPage - Page header is captured
+[INFO ] 2024-04-11 21:25:12.332 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:25:12.451 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:25:12.587 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:25:12.667 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:25:12.730 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 21:25:12.785 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 21:25:12.861 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:25:12.923 [main] YourCartPage - Removed Sauce Labs Onesie from cart
+[INFO ] 2024-04-11 21:25:12.962 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 21:33:39.548 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:33:39.707 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:33:39.873 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:33:39.995 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 21:33:40.056 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:33:40.115 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 21:33:40.182 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 21:33:40.271 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 21:33:54.107 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:33:54.240 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:33:54.397 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:33:54.516 [main] ProductsPage - Added Sauce Labs Bike Light to cart
+[INFO ] 2024-04-11 21:33:54.593 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:33:54.659 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:33:54.733 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 21:33:54.811 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:33:54.812 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:33:55.270 [main] CheckoutYourInformationPage - Entered firstname Maxwell
+[INFO ] 2024-04-11 21:33:55.332 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:33:55.343 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:33:55.617 [main] CheckoutYourInformationPage - Entered lastname Huel
+[INFO ] 2024-04-11 21:33:55.680 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:33:55.681 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:33:55.903 [main] CheckoutYourInformationPage - Entered postal code 69648
+[INFO ] 2024-04-11 21:33:56.133 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:33:56.136 [main] CheckoutOverviewPage - Title header is fetched
+[INFO ] 2024-04-11 21:34:02.164 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:34:02.282 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:34:02.416 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:34:08.477 [main] LoginPage - Username problem_user is entered
+[INFO ] 2024-04-11 21:34:08.600 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:34:08.735 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:34:15.937 [main] LoginPage - Username performance_glitch_user is entered
+[INFO ] 2024-04-11 21:34:16.054 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:34:21.186 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:34:28.682 [main] LoginPage - Username error_user is entered
+[INFO ] 2024-04-11 21:34:28.804 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:34:28.938 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:34:36.236 [main] LoginPage - Username visual_user is entered
+[INFO ] 2024-04-11 21:34:36.373 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:34:36.508 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:34:43.548 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:34:43.666 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:34:43.795 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:34:43.870 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 21:34:43.946 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:34:44.022 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 21:34:44.232 [main] CheckoutYourInformationPage - Entered firstname Willie
+[INFO ] 2024-04-11 21:34:44.517 [main] CheckoutYourInformationPage - Entered lastname Friesen
+[INFO ] 2024-04-11 21:34:44.662 [main] CheckoutYourInformationPage - Entered postal code 85065
+[INFO ] 2024-04-11 21:34:44.984 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:34:45.052 [main] CheckoutOverviewPage - Clicked on Finish button
+[INFO ] 2024-04-11 21:34:45.133 [main] CheckoutCompletePage - Clicked on Hamburger menu
+[INFO ] 2024-04-11 21:34:45.287 [main] HamburgerMenuComponent - Clicked on Logout link
+[INFO ] 2024-04-11 21:34:45.287 [main] LoginPage - Page header is captured
+[INFO ] 2024-04-11 21:34:53.323 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:34:53.454 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:34:53.579 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:34:53.651 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:34:53.703 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 21:34:53.755 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 21:34:53.825 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:34:53.884 [main] YourCartPage - Removed Sauce Labs Onesie from cart
+[INFO ] 2024-04-11 21:34:53.915 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 21:42:30.007 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:42:30.148 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:42:30.312 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:42:30.437 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 21:42:30.511 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:42:30.568 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 21:42:30.620 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 21:42:30.663 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 21:42:38.023 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:42:38.146 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:42:38.303 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:42:38.408 [main] ProductsPage - Added Sauce Labs Bike Light to cart
+[INFO ] 2024-04-11 21:42:38.492 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:42:38.583 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:42:38.655 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 21:42:38.735 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:42:38.736 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:42:39.165 [main] CheckoutYourInformationPage - Entered firstname Dortha
+[INFO ] 2024-04-11 21:42:39.233 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:42:39.237 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:42:39.510 [main] CheckoutYourInformationPage - Entered lastname Bartoletti
+[INFO ] 2024-04-11 21:42:39.572 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:42:39.573 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 21:42:39.818 [main] CheckoutYourInformationPage - Entered postal code 06667-3513
+[INFO ] 2024-04-11 21:42:40.269 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:42:40.274 [main] CheckoutOverviewPage - Title header is fetched
+[INFO ] 2024-04-11 21:42:52.592 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:42:52.729 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:42:52.872 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:42:58.988 [main] LoginPage - Username problem_user is entered
+[INFO ] 2024-04-11 21:42:59.119 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:42:59.246 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:43:06.383 [main] LoginPage - Username performance_glitch_user is entered
+[INFO ] 2024-04-11 21:43:06.506 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:43:11.656 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:43:20.061 [main] LoginPage - Username error_user is entered
+[INFO ] 2024-04-11 21:43:20.180 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:43:20.312 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:43:28.157 [main] LoginPage - Username visual_user is entered
+[INFO ] 2024-04-11 21:43:28.274 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:43:28.404 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:43:35.090 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:43:35.215 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:43:35.337 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:43:35.409 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 21:43:35.487 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:43:35.586 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 21:43:35.786 [main] CheckoutYourInformationPage - Entered firstname Raquel
+[INFO ] 2024-04-11 21:43:36.020 [main] CheckoutYourInformationPage - Entered lastname Connelly
+[INFO ] 2024-04-11 21:43:36.245 [main] CheckoutYourInformationPage - Entered postal code 31829
+[INFO ] 2024-04-11 21:43:36.328 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 21:43:36.396 [main] CheckoutOverviewPage - Clicked on Finish button
+[INFO ] 2024-04-11 21:43:36.476 [main] CheckoutCompletePage - Clicked on Hamburger menu
+[INFO ] 2024-04-11 21:43:36.619 [main] HamburgerMenuComponent - Clicked on Logout link
+[INFO ] 2024-04-11 21:43:36.621 [main] LoginPage - Page header is captured
+[INFO ] 2024-04-11 21:43:44.529 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:43:44.645 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:43:44.773 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:43:44.846 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:43:44.901 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 21:43:44.962 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 21:43:45.036 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 21:43:45.105 [main] YourCartPage - Removed Sauce Labs Onesie from cart
+[INFO ] 2024-04-11 21:43:45.136 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 21:59:47.524 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 21:59:47.832 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 21:59:49.197 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 21:59:49.393 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 21:59:49.467 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 21:59:49.531 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 21:59:49.588 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 21:59:49.795 [main] ProductsPage - Fetched count of products added to the cart
+[INFO ] 2024-04-11 22:00:02.125 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 22:00:02.257 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 22:00:02.439 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 22:00:02.560 [main] ProductsPage - Added Sauce Labs Bike Light to cart
+[INFO ] 2024-04-11 22:00:02.640 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 22:00:02.728 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 22:00:02.837 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 22:00:03.198 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 22:00:03.199 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 22:00:04.015 [main] CheckoutYourInformationPage - Entered firstname Antony
+[INFO ] 2024-04-11 22:00:04.089 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 22:00:04.094 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 22:00:04.476 [main] CheckoutYourInformationPage - Entered lastname Durgan
+[INFO ] 2024-04-11 22:00:04.566 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 22:00:04.568 [main] CheckoutYourInformationPage - Error message displayed
+[INFO ] 2024-04-11 22:00:04.892 [main] CheckoutYourInformationPage - Entered postal code 22827
+[INFO ] 2024-04-11 22:00:05.101 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 22:00:05.108 [main] CheckoutOverviewPage - Title header is fetched
+[INFO ] 2024-04-11 22:00:14.998 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 22:00:15.122 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 22:00:15.281 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 22:00:22.981 [main] LoginPage - Username problem_user is entered
+[INFO ] 2024-04-11 22:00:23.112 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 22:00:23.267 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 22:00:30.300 [main] LoginPage - Username performance_glitch_user is entered
+[INFO ] 2024-04-11 22:00:30.454 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 22:00:35.608 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 22:00:45.945 [main] LoginPage - Username error_user is entered
+[INFO ] 2024-04-11 22:00:46.079 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 22:00:46.239 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 22:00:55.103 [main] LoginPage - Username visual_user is entered
+[INFO ] 2024-04-11 22:00:55.252 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 22:00:55.419 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 22:01:03.212 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 22:01:03.344 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 22:01:03.569 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 22:01:03.638 [main] ProductsPage - Added Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-04-11 22:01:03.782 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 22:01:03.873 [main] YourCartPage - Clicked on Checkout buton
+[INFO ] 2024-04-11 22:01:04.169 [main] CheckoutYourInformationPage - Entered firstname Israel
+[INFO ] 2024-04-11 22:01:04.436 [main] CheckoutYourInformationPage - Entered lastname Blanda
+[INFO ] 2024-04-11 22:01:04.587 [main] CheckoutYourInformationPage - Entered postal code 15029-4910
+[INFO ] 2024-04-11 22:01:04.928 [main] CheckoutYourInformationPage - Clicked on Continue button
+[INFO ] 2024-04-11 22:01:05.010 [main] CheckoutOverviewPage - Clicked on Finish button
+[INFO ] 2024-04-11 22:01:05.093 [main] CheckoutCompletePage - Clicked on Hamburger menu
+[INFO ] 2024-04-11 22:01:05.264 [main] HamburgerMenuComponent - Clicked on Logout link
+[INFO ] 2024-04-11 22:01:05.265 [main] LoginPage - Page header is captured
+[INFO ] 2024-04-11 22:01:14.125 [main] LoginPage - Username standard_user is entered
+[INFO ] 2024-04-11 22:01:14.329 [main] LoginPage - Password secret_sauce is entered
+[INFO ] 2024-04-11 22:01:14.476 [main] LoginPage - Login button is clicked
+[INFO ] 2024-04-11 22:01:14.567 [main] ProductsPage - Added Sauce Labs Onesie to cart
+[INFO ] 2024-04-11 22:01:14.632 [main] ProductsPage - Added Sauce Labs Backpack to cart
+[INFO ] 2024-04-11 22:01:14.693 [main] ProductsPage - Added Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-04-11 22:01:14.765 [main] ProductsPage - Clicked on Cart icon
+[INFO ] 2024-04-11 22:01:14.818 [main] YourCartPage - Removed Sauce Labs Onesie from cart
+[INFO ] 2024-04-11 22:01:14.851 [main] ProductsPage - Fetched count of products added to the cart
